@@ -1,0 +1,6 @@
+#include "vector_bracket.h"
+#include "vector_copyFrom.h"
+#include "vector_expand.h"
+#include "vector_permute.h"
+#include "vector_shrink.h"
+#include "vector_unsort.h"
